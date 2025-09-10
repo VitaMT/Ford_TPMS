@@ -1,7 +1,7 @@
 # Ford_TPMS
 TPMS system with ESP32 for my ford galaxy.</p>
 Works with BT sensors v4.0 like that: https://aliexpress.ru/item/1005002518896680.html
-<p align="center"> <img width="200px" src="Foto_TPMS_sensors_BLE.png" alt="qr"/> </p>
+<p align="center"> <img width="400px" src="Foto_TPMS_sensors_BLE.png" alt="qr"/> </p>
 BT server name in ESP32 = "Ford_TPMS_CFG". Connect to it with smartphone. Use app "Serial Bluetooth Terminal" to send next commands:
 <ul>
 <li>R1\n - read BLE address of front left TPMS sensor</li>
